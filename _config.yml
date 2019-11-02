@@ -99,4 +99,7 @@ theme: material-x
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+	# 配置部署到 GitHub 上的示例。
+  type: git
+  repo: https://github.com/flueky/flueky.github.io.git
+  branch: master
