@@ -36,3 +36,7 @@ npm i -S hexo-generator-search hexo-generator-json-content
 ```
 
 **此处已经配置好依赖，执行 `npm install` 时默认安装。**
+
+#### v0.0.3
+
+添加了 分类 、标签 、友链等缺少的页面。
