@@ -147,7 +147,7 @@ layout:
 # 侧边栏小部件配置
 sidebar:
   - widget: author
-    avatar: https://cdn.jsdelivr.net/gh/xaoxuu/assets@master/avatar/avatar.png
+    avatar: pic/user_icon.png
     social: true
   - widget: toc
   - widget: grid
