@@ -87,15 +87,15 @@ menu_desktop:
     url: /
   - name: 分类
     icon: fas fa-folder-open
-    url: blog/categories/
+    url: categories/
     rel: nofollow
   - name: 标签
     icon: fas fa-hashtag
-    url: blog/tags/
+    url: tags/
     rel: nofollow
   - name: 归档
     icon: fas fa-archive
-    url: blog/archives/
+    url: archives/
     rel: nofollow
 
 # 手机端导航菜单（从右上角的按钮点击展开）
