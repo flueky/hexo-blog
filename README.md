@@ -44,3 +44,7 @@ npm i -S hexo-generator-search hexo-generator-json-content
 #### v0.0.4
 
 添加背景音乐、点击效果、评论、字数统计、百度统计、雪花效果、运行时间、动态线条、动态彩带。
+
+#### v0.0.5
+
+添加透明效果。
