@@ -141,7 +141,7 @@ layout:
     header: [title, author, date, categories, counter, top]
     footer: [updated, tags, share]
     # 文章页面的侧边栏
-    sidebar: [author, toc, grid, category, tagcloud, list, related_posts]
+    sidebar: [author, toc]
   # 其他的页面布局暂时等于文章列表
 
 
