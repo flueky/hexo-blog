@@ -40,3 +40,7 @@ npm i -S hexo-generator-search hexo-generator-json-content
 #### v0.0.3
 
 添加了 分类 、标签 、友链等缺少的页面。
+
+#### v0.0.4
+
+添加背景音乐、点击效果、评论、字数统计、百度统计、雪花效果、运行时间、动态线条、动态彩带。
