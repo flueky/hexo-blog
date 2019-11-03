@@ -1689,7 +1689,7 @@ ul.h-list>li {
     position: relative;
     margin: 16px auto;
     padding: 32px 24px;
-    background: #fff;
+    background: #fff9;
     border-radius: 12px;
     transition: all .25s ease;
     -moz-transition: all .25s ease;
@@ -2134,7 +2134,7 @@ ul.h-list>li {
 
 .widget {
     z-index: 0;
-    background: #fff;
+    background: #fff9;
     margin-top: 16px;
     font-family: 'Varela Round', "Microsoft YaHei", "Source Sans Pro", "Helvetica Neue", Menlo, Monaco, monospace, "Lucida Console", sans-serif, Helvetica, "Hiragino Sans GB", "Hiragino Sans GB W3", Source Han Sans CN Regular, WenQuanYi Micro Hei, Arial, sans-serif;
     font-size: 16px;
