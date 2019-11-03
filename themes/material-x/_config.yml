@@ -305,3 +305,6 @@ search:
 # Less渲染
 less:
   compress: true
+
+# 显示字数统计
+word_count: true

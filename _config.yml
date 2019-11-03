@@ -119,3 +119,5 @@ gitalk:
   repo: #你的repo名
   owner: #你的GitHub名
   admin: [] #至少填写你的GitHub名
+
+ baidu_analytics_key: # 你的百度统计key 
