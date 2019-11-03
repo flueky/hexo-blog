@@ -112,6 +112,7 @@ deploy:
 #   app_id: #你的appId
 #   app_key: #你的appKey
 
+# Gitalk 评论配置
 gitalk: 
   clientID: #你的clientID
   clientSecret: #你的clientSecret

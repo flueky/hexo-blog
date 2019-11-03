@@ -129,7 +129,7 @@ layout:
     # 列表中每一篇文章的meta信息
     meta: [title, author, date, categories, top]
     # 列表类页面的侧边栏
-    sidebar: [author, list, grid, category, tagcloud]
+    sidebar: [author, list, grid, music, category, tagcloud]
   # 文章页面布局
   article:
     # 文章页面主体元素，你也可以在页面的Front-matter中设置
