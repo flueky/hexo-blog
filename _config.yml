@@ -12,7 +12,10 @@ language: en
 timezone: ''
 # 网站图标
 favicon: pic/user_icon.png
-avatar: pic/user_icon.png
+# 作者图标，使用相对路径时，需要关注文章实际生成的目录。
+# 此路径在文章中使用，但是pic文件夹在source目录下
+# 如果更改了 permalink ，下面的路径需要做修改。
+avatar: ../../../../pic/user_icon.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -103,3 +106,7 @@ deploy:
   type: git
   repo: https://github.com/flueky/flueky.github.io.git
   branch: master
+
+leancloud:
+  app_id: 你的appId
+  app_key: 你的appKey
