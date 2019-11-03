@@ -107,6 +107,14 @@ deploy:
   repo: https://github.com/flueky/flueky.github.io.git
   branch: master
 
-leancloud:
-  app_id: 你的appId
-  app_key: 你的appKey
+#valine配置使用
+# leancloud:
+#   app_id: #你的appId
+#   app_key: #你的appKey
+
+gitalk: 
+  clientID: #你的clientID
+  clientSecret: #你的clientSecret
+  repo: #你的repo名
+  owner: #你的GitHub名
+  admin: [] #至少填写你的GitHub名
