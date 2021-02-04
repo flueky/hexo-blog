@@ -48,3 +48,8 @@ npm i -S hexo-generator-search hexo-generator-json-content
 #### v0.0.5
 
 添加透明效果。
+
+#### v0.1.0
+
+更新hexo版本。
+移除source/_posts和source/_drafts目录，改用快捷方式。
