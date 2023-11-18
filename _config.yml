@@ -7,20 +7,13 @@ title: Flukey 小站
 subtitle: ''
 description: ''
 keywords:
-author: Flueky
+author: Flueky Zuo
 language: en
 timezone: ''
-# 网站图标
-favicon: pic/user_icon.png
-# 作者图标，使用相对路径时，需要关注文章实际生成的目录。
-# 此路径在文章中使用，但是pic文件夹在source目录下
-# 如果更改了 permalink ，下面的路径需要做修改。
-avatar: ../../../../pic/user_icon.png
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,39 +97,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: landscape
-theme: material-x
+theme: butterfly
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
+## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-	# 配置部署到 GitHub 上的示例。
-  type: git
-  repo: https://github.com/flueky/flueky.github.io.git
-  branch: master
-
-#valine配置使用
-# leancloud:
-#   app_id: #你的appId
-#   app_key: #你的appKey
-
-# Gitalk 评论配置
-gitalk: 
-  clientID: #你的clientID
-  clientSecret: #你的clientSecret
-  repo: #你的repo名
-  owner: #你的GitHub名
-  admin: [] #至少填写你的GitHub名
-
-baidu_analytics_key: # 你的百度统计key 
-
-# Extensions
-## Plugins: http://hexo.io/plugins/
-#RSS订阅
-plugin:
-- hexo-generator-feed
-#Feed Atom
-feed:
-  type: atom
-  path: atom.xml
-  limit: 20
+  type: ''
